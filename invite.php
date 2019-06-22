@@ -57,8 +57,8 @@ echo ($i + 1) . '. ' . $fr['data'][$i]['name'];
             </div>
 
             <div class="form-group">
-                <label for="time"> Delay (tính bằng giây):</label><br />
-                <input type="text" name="time" id="time" class="form-control" placeholder="Nhập Time Delay" />
+                <label for="time"> Delay (Per Second):</label><br />
+                <input type="text" name="time" id="time" class="form-control" placeholder="Second" />
             </div>
 
         </div>
